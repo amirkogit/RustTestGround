@@ -10,6 +10,10 @@ fn options_demo()
         Some(z) => println!("{}/{}={}",x,y,z),
         None => println!("Cannot divide {} by {}",x,y)
     }
+
+    if let Some(z) = result {
+        println!("result = {}", z);
+    }
 }
 
 fn main() {
