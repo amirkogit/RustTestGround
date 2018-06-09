@@ -1,0 +1,6 @@
+[package]
+name = "tuples"
+version = "0.1.0"
+authors = ["Amir Shrestha <amirkomail@gmail.com>"]
+
+[dependencies]
