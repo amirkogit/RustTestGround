@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["to_binary","Returns the binary equivalent of a given integer in String"],["to_hex","Returns the hexadecimal equivalent of a given integer in String"]]});

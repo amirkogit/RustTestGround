@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["add","Returns the sum of two i32 numbers"],["division","Returns the division of two i32 numbers"],["product","Returns the product of two i32 numbers"]]});

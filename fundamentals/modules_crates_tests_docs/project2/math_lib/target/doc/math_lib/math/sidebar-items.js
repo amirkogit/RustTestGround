@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["basic_calculator","This module contains basic calculating functions."],["scientific_calculator","This module contains scientific calculating functions."],["utils","Utils consists of various mathematical constants and formulae. "]]});
