@@ -2,6 +2,7 @@
 Sandbox for trying out various stuffs in a Rust programming language.
 
 ### fundamentals:
+-------------------
 Contains short examples to demonstrate the basic building blocks for Rust programming language.
 
 ##### To create a new project
@@ -18,6 +19,7 @@ Contains short examples to demonstrate the basic building blocks for Rust progra
 `cargo doc`
 
 #### References
+-------------------
 [The Rust Standard Library](https://doc.rust-lang.org/std/)
 
 [The Rust Programming Language](https://doc.rust-lang.org/book/)
