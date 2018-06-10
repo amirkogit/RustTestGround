@@ -19,5 +19,7 @@ Contains short examples to demonstrate the basic building blocks for Rust progra
 
 #### References
 [The Rust Standard Library](https://doc.rust-lang.org/std/)
+
 [The Rust Programming Language](https://doc.rust-lang.org/book/)
+
 [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
