@@ -8,7 +8,7 @@ Contains short examples to demonstrate the basic building blocks for Rust progra
 `cargo new <name_of_project>`
 
 #### To build and run a new project
-`cd <name_of_project`
+`cd <name_of_project>`
 `cargo build & cargo run`
 
 #### To run tests
