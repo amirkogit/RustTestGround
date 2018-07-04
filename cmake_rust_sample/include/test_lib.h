@@ -6,6 +6,7 @@ extern "C" {
 #endif
 
 void greetings();
+int add(int x, int y);
 
 #ifdef __cplusplus
 }
