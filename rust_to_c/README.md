@@ -1,7 +1,7 @@
 # rust_to_c
 Demonstrates how to call a native C code from Rust.
 
-[Created for the blog post](https://amirkoblog.wordpress.com/2018/07/05/calling-native-c-code-from-rust/)
+[Blog Link](https://amirkoblog.wordpress.com/2018/07/05/calling-native-c-code-from-rust/)
 
 -------------------
 #### References
