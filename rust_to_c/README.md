@@ -12,4 +12,4 @@ Demonstrates how to call a native C code from Rust.
 
 [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 
-[Rust FFI examples] (https://github.com/alexcrichton/rust-ffi-examples)
+[Rust FFI examples] (https://github.com/alexcrichton/rust-ffi-examples/)
